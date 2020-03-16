@@ -9,7 +9,8 @@ name: blogcami
 description: Blog Cami
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+#avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: http://es.gravatar.com/camilomateo354610ddc4
 
 #
 # Flags below are optional
